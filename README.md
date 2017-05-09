@@ -1,5 +1,5 @@
 # awesome-cognitive-science-and-deep-learning
- A curated list of resources dedicated bridge between coginitive science and deep learning
+ A curated list of resources dedicated to bridge between coginitive science and deep learning
 ## Table of Contents
  - [Theory](#theory)
    - [Papers / Thesis](#papers--thesis)

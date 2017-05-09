@@ -42,10 +42,10 @@
     Source: http://sci-hub.cc/10.1016/j.tics.2017.01.001
  18. The Depressed Brain: An Evolutionary Systems Theory|Paul B. Badcock, Christopher G. Davey, Sarah Whittle, Nicholas B. Allen, Karl J. Friston |2017 <br>
     Source: http://sci-hub.cc/10.1016/j.tics.2017.01.005
-19. Gradients of Connectivity in the Cerebral Cortex|Fenna M. Krienen, Chet C. Sherwood|2016
+19. Gradients of Connectivity in the Cerebral Cortex|Fenna M. Krienen, Chet C. Sherwood|2016<br>
     Source: http://sci-hub.cc/10.1016/j.tics.2016.12.002
-20. How Do We Keep Information ‘Online’?|David Soto|2017
-21.The Distributed Nature of Working Memory|Thomas B. Christophel, P. Christiaan Klink, Bernhard Spitzer, Pieter R. Roelfsema, John-Dylan Haynes|2017
+20. How Do We Keep Information ‘Online’?|David Soto|2017<br>
+21.The Distributed Nature of Working Memory|Thomas B. Christophel, P. Christiaan Klink, Bernhard Spitzer, Pieter R. Roelfsema, John-Dylan Haynes|2017<br>
    Source: http://sci-hub.bz/10.1016/j.tics.2016.12.007
 
  

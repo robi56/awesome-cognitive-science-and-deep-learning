@@ -9,7 +9,7 @@
 #### 2017: 
  1. STDP-Compatible Approximation of Backpropagation in an Energy-Based Model|Yoshua Bengio, Thomas Mesnard, Asja Fischer, Saizheng Zhang, Yuhuai Wu|2017 <br>
     Source: http://www.mitpressjournals.org/doi/full/10.1162/NECO_a_00934#.WRFhOiakU_s
- 2. Deep Learning with Dynamic Spiking Neurons and Fixed Feedback Weights No Access|Arash Samadi, Timothy P. Lillicrap, Douglas B. Tweed|2017 <br>
+ 2. Deep Learning with Dynamic Spiking Neurons and Fixed Feedback Weights |Arash Samadi, Timothy P. Lillicrap, Douglas B. Tweed|2017 <br>
     Source: http://sci-hub.cc/10.1162/neco_a_00929
  3. Solving Nonlinearly Separable Classifications in a Single-Layer Neural Network|Nolan Conaway, Kenneth J. Kurtz|2017<br>
     Source: http://sci-hub.cc/10.1162/neco_a_00931

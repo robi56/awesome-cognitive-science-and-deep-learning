@@ -49,6 +49,9 @@
 21. The Distributed Nature of Working Memory|Thomas B. Christophel, P. Christiaan Klink, Bernhard Spitzer, Pieter R. Roelfsema, John-Dylan Haynes|2017 <br>
    Source: http://sci-hub.bz/10.1016/j.tics.2016.12.007
 
+22. F2 Heterogeneous layers stabilize propagation of a multiplexed spike signal in a feedforward network|Dongqi Han, Sungho Hong|2017 <br>
+   Source: https://bmcneurosci.biomedcentral.com/articles/10.1186/s12868-017-0370-3
+
  
  
 
